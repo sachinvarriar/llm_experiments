@@ -1,1 +1,4 @@
 langchain
+youtube-transcript-api
+transformers
+tensorflow
