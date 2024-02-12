@@ -2,3 +2,7 @@ langchain
 youtube-transcript-api
 transformers
 tensorflow
+openai
+chromadb
+llama-index
+html2text
